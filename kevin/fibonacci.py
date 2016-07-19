@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 def fibonacci_sequence(number):
     if number == 1:
         print("0")
