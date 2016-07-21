@@ -27,4 +27,3 @@ def osm_get_nodes(filename):
 if __name__ == "__main__":
     for node in osm_get_nodes("map.osm"):
         print(node)
-
